@@ -50,7 +50,8 @@ I have hands-on knowledge of Python, SQL, Excel, Power BI, Tableau, and AI/ML co
 Machine Learning project focused on predicting product sales using historical data and analyzing factors that influence sales.
 
 ### 🗄️ SQL Projects
-Practical SQL projects covering data analysis, joins, subqueries, aggregations, functions, and complex queries.
+### 🗄️ [E-Commerce Sales Analysis using SQL](https://github.com/Sowmya-Medikonduru/ecommerce-sales-analysis-sql)
+SQL project analyzing e-commerce sales data using MySQL, covering sales trends, product performance, customer analysis, regional analysis, subqueries, JOINs, and CASE WHEN.
 
 ### 📈 Power BI Projects
 Interactive dashboards and business reports designed to transform raw data into meaningful insights.
