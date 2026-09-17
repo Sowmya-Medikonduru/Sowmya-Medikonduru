@@ -57,7 +57,8 @@ SQL project analyzing e-commerce sales data using MySQL, covering sales trends, 
 Interactive dashboards and business reports designed to transform raw data into meaningful insights.
 
 ### 📑 Excel Projects
-Projects involving data cleaning, formulas, functions, data analysis, and dashboard creation using Microsoft Excel.
+### 📑 [Healthcare Sales & Operations Analysis using Excel](https://github.com/Sowmya-Medikonduru/Healthcare-Sales-Operations-Analysis-Excel)
+Excel project analyzing healthcare sales and operational data using formulas, Pivot Tables, Pivot Charts, slicers, and an interactive dashboard.
 
 ---
 
